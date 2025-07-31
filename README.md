@@ -15,7 +15,7 @@ I'm a passionate **Full Stack Web Developer** who enjoys building scalable, eleg
 ## 🧠 About Me
 - 🔧 Full Stack Web Developer with strong principles in software development.
 - ⚙️ I love working on real-world applications and scalable architectures.
-- 🚀 Currently developing [**WattWizards**](https://github.com/ahmedmedhat-se/wattwizards-platform) — an engineering platform for electrical circuit analysis and project management.
+- 🚀 Currently developing [**WattWizards**](https://github.com/ahmedmedhat-se/wattwizards) — an engineering platform for electrical circuit analysis and project management.
 
 ## 🌍 Connect with Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/ahmed-medhat-ramadan-4061b7263/)
