@@ -19,8 +19,8 @@ I'm a passionate **Full Stack Web Developer** who enjoys building scalable, eleg
 
 ## 🌍 Connect with Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/ahmed-medhat-ramadan-4061b7263/)
-- 📺 [YouTube](https://www.youtube.com/@meddyscripts)
 
 ## 📈 GitHub Stats
 ![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmedmedhat-se&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedmedhat-se&layout=compact&theme=radical)
+
