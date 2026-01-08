@@ -1,26 +1,49 @@
-# 👋 Hi there! I'm Ahmed Medhat
-I'm a passionate **Full Stack Web Developer** who enjoys building scalable, elegant, and functional web applications.
+# 👨‍💻 Ahmed Medhat | Full Stack Web Developer
+*I craft real business tech identity far away from AI buzz.*
 
-## 💻 Tech Stack & Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-F55247?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-</p>
+---
+## 🛠️ Tech Stack
+### 🎨 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-## 🧠 About Me
-- 🔧 Full Stack Web Developer with strong principles in software development.
-- ⚙️ I love working on real-world applications and scalable architectures.
-- 🚀 Currently developing [**WattWizards**](https://github.com/ahmedmedhat-se/wattwizards) — an engineering platform for electrical circuit analysis and project management.
+### ⚙️ Backend
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-F55247?style=for-the-badge&logo=laravel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-## 🌍 Connect with Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/ahmed-medhat-ramadan-4061b7263/)
+### Databases & Tools
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## 📈 GitHub Stats
-![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmedmedhat-se&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedmedhat-se&layout=compact&theme=radical)
+---
+## 📊 GitHub Analytics
+<div align="center">
+  
+  ![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmedmedhat-se&show_icons=true&count_private=true&hide_border=true&theme=radical&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff)
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedmedhat-se&layout=compact&hide_border=true&theme=radical&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
+  
+  ![GitHub Streak](https://streak-stats.demolab.com?user=ahmedmedhat-se&theme=radical&hide_border=true&background=0D1117&fire=58A6FF&ring=58A6FF)
+  
+</div>
 
+## 📈 Contribution Graph
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ahmedmedhat-se&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph)
+
+---
+## 🤝 Let's Connect
+<div align="left">
+  <a href="https://www.linkedin.com/in/ahmed-medhat-ramadan-4061b7263?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</div>
+
+---
