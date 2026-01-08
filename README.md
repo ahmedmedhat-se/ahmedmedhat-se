@@ -26,13 +26,9 @@
 ---
 ## 📊 GitHub Analytics
 <div align="center">
-  
-  ![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmedmedhat-se&show_icons=true&count_private=true&hide_border=true&theme=radical&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedmedhat-se&layout=compact&hide_border=true&theme=radical&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
-  
-  ![GitHub Streak](https://streak-stats.demolab.com?user=ahmedmedhat-se&theme=radical&hide_border=true&background=0D1117&fire=58A6FF&ring=58A6FF)
-  
+  ![Repos](https://img.shields.io/badge/dynamic/json?color=blue&label=Public%20Repos&query=public_repos&url=https://api.github.com/users/ahmedmedhat-se)
+  ![Followers](https://img.shields.io/github/followers/ahmedmedhat-se?color=green&label=Followers)
+  ![Stars](https://img.shields.io/github/stars/ahmedmedhat-se?color=yellow&label=Total%20Stars)
 </div>
 
 ## 📈 Contribution Graph
@@ -47,3 +43,4 @@
 </div>
 
 ---
+
