@@ -24,13 +24,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
-## 📊 GitHub Analytics
-<div align="center">
-  ![Repos](https://img.shields.io/badge/dynamic/json?color=blue&label=Public%20Repos&query=public_repos&url=https://api.github.com/users/ahmedmedhat-se)
-  ![Followers](https://img.shields.io/github/followers/ahmedmedhat-se?color=green&label=Followers)
-  ![Stars](https://img.shields.io/github/stars/ahmedmedhat-se?color=yellow&label=Total%20Stars)
-</div>
-
 ## 📈 Contribution Graph
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ahmedmedhat-se&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph)
 
@@ -43,4 +36,5 @@
 </div>
 
 ---
+
 
