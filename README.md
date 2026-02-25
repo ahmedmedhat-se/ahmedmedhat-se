@@ -33,16 +33,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedmedhat-se&layout=compact&langs_count=6&theme=dracula&hide_border=true" height="180" alt="Ahmed Medhat top languages" />
 </div>
 
-<!-- Streak Stats -->
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ahmedmedhat-se&theme=dracula&hide_border=true" alt="Ahmed Medhat streak stats"/>
-</p>
-
-<!-- Contribution Snake -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ahmedmedhat-se/ahmedmedhat-se/output/snake.svg" alt="Contribution snake animation"/>
-</div>
-
 ---
 ## 🤝 Let's Connect
 <div align="left">
@@ -56,6 +46,7 @@
 </div>
 
 ---
+
 
 
 
