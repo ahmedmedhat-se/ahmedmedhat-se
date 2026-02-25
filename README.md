@@ -31,15 +31,16 @@
 ## 🤝 Let's Connect
 <div align="left">
   <a href="https://www.linkedin.com/in/ahmed-medhat-ramadan-4061b7263" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-ahmedmedhat-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   
   <a href="https://codeforces.com/profile/ahmedmedhat" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-ahmedmedhat-FF6F00?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces">
+    <img src="https://img.shields.io/badge/Codeforces-FF6F00?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces">
   </a>
 </div>
 
 ---
+
 
 
 
