@@ -28,12 +28,6 @@
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ahmedmedhat-se&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph)
 
 ---
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedmedhat-se&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true" height="180" alt="Ahmed Medhat GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedmedhat-se&layout=compact&langs_count=6&theme=dracula&hide_border=true" height="180" alt="Ahmed Medhat top languages" />
-</div>
-
----
 ## 🤝 Let's Connect
 <div align="left">
   <a href="https://www.linkedin.com/in/ahmed-medhat-ramadan-4061b7263" target="_blank">
@@ -46,6 +40,7 @@
 </div>
 
 ---
+
 
 
 
