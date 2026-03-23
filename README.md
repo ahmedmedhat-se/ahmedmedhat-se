@@ -1,4 +1,4 @@
-# 👨‍💻 Ahmed Medhat | Full Stack Web Developer
+# Ahmed Medhat | Full Stack Web Developer
 *I craft real business tech identity far away from AI buzz.*
 
 ---
