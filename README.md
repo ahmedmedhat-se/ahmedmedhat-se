@@ -47,7 +47,6 @@ I’m a **Full Stack Web Developer** with a focus on delivering robust, maintain
 ## GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedmedhat-se&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedmedhat-se&theme=react&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF7B72&currStreakLabel=58A6FF" width="48%" />
 </div>
 
